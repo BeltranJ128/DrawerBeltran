@@ -30,3 +30,6 @@ https://appmaking.com/flutter-drawer-example/
 
 EsFlutter
 https://api.flutter.dev/flutter/material/AppBar-class.html
+
+LogRocket
+https://blog.logrocket.com/how-to-add-navigation-drawer-flutter/
